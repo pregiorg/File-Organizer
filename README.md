@@ -29,7 +29,7 @@ A Python script that automatically sorts files in a directory into categorized s
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/pregiorg/file-organizer.git
+git clone https://github.com/pregiorg/File_Organizer.git
 cd file-organizer
 ```
 
