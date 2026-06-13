@@ -30,7 +30,7 @@ A Python script that automatically sorts files in a directory into categorized s
 1. Clone the repo:
 ```bash
 git clone https://github.com/pregiorg/File_Organizer.git
-cd file-organizer
+cd file_organizer
 ```
 
 2. Edit the target directory in `file_organizer.py`:
